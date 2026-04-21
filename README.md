@@ -12,6 +12,9 @@ To analyze workforce attrition patterns and identify trends across age, salary, 
 - DAX
 - Excel
 
+## Skills Demonstrated
+Data Cleaning, Data Visualization, Dashboard Design, DAX Measures, Business Insights
+
 ## Dataset Summary
 - Total Employees: 1470
 - Attrition Count: 237
